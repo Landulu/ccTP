@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+    </book>
+    <book>
+        <title>H2G2</title>
+        <author>Douglas Adams</author>
+    </book>
+</books>
